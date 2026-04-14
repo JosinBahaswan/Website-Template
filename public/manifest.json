@@ -1,0 +1,27 @@
+{
+  "name": "CSS Template Library",
+  "short_name": "CSS Library",
+  "description": "Kumpulan template CSS modern dan responsif untuk mempercepat pengembangan website frontend.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#4361ee",
+  "lang": "id-ID",
+  "categories": ["developer", "education", "productivity"],
+  "icons": [
+    {
+      "src": "/css-icon-1.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/css-icon-1.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "maskable"
+    }
+  ]
+}
